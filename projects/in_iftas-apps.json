@@ -8,15 +8,15 @@
     "branch":"develop"
   },
   {
-    "url":"https://{{user}}:{{token}}@github.com/iftas-erpnext/rfp",
+    "url":"https://{{user}}:{{token}}@github.com/IFTAS-ERP/rfp",
     "branch":"develop"
   },
   {
-    "url":"https://{{user}}:{{token}}@github.com/iftas-erpnext/iftas_finance",
+    "url":"https://{{user}}:{{token}}@github.com/IFTAS-ERP/iftas_finance",
     "branch":"develop"
   },
   {
-    "url":"https://{{user}}:{{token}}@github.com/iftas-erpnext/iftas_customization",
+    "url":"https://{{user}}:{{token}}@github.com/IFTAS-ERP/iftas_customization",
     "branch":"develop"
   },
   {
